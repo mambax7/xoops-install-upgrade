@@ -14,7 +14,7 @@ You can find more information in the [Tools of the Trade](../tools/tools.md) cha
 
 Most developers want to be able to stay up to date with current sources, and contribute changes back to the upstream [XOOPS/XoopsCore27 repository on GitHub](https://github.com/XOOPS/XoopsCore27). This means that instead of downloading a release archive, you will want to [fork](https://help.github.com/articles/fork-a-repo/) a copy of XOOPS and use **git** to [clone](https://help.github.com/categories/bootcamp/) that repository to your dev box.
 
-Since the repository has a specific structure, instead of _copying_ files from the _htdocs_ directory to your web server, it is better to point your web server to the htdocs folder inside your locally cloned repository. To acomplish this, we typically create a new _Virtual Host_, or _vhost_ that points to our git controlled source code.
+Since the repository has a specific structure, instead of _copying_ files from the _htdocs_ directory to your web server, it is better to point your web server to the htdocs folder inside your locally cloned repository. To accomplish this, we typically create a new _Virtual Host_, or _vhost_ that points to our git controlled source code.
 
 In a [WAMP](http://www.wampserver.com/) environment, the default [localhost](http://localhost/) page has in the _Tools_ section a link to _Add a Virtual Host_ which leads here:
 
