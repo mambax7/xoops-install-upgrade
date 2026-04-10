@@ -1,4 +1,4 @@
-# Running Upgrade​
+# Running Upgrade
 
 Before running the main upgrader, make sure you have completed the [Preflight Check](preflight.md). The upgrade UI requires preflight to be run at least once and will direct you there if you have not.
 
