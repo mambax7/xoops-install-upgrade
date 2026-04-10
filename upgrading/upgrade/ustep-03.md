@@ -1,4 +1,4 @@
-# Troubleshooting​
+# Troubleshooting
 
 ## Smarty 4 Template Errors
 
